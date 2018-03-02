@@ -605,6 +605,16 @@ ul li {
   opacity: 0.8;
 }
 
+/*changes by akash for logo adjustment*/
+
+#clogo{
+  margin-top: 80px
+}
+
+#mlogo{
+  margin-top: 60px
+}
+
 
 
 
